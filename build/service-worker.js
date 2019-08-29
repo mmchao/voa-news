@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/voa-news/build/precache-manifest.d4856a610708e7754871c7739010ec88.js"
+  "/voa-news/build/precache-manifest.ad27f61bc60d85fc05d94cbc31d52762.js"
 );
 
 workbox.clientsClaim();

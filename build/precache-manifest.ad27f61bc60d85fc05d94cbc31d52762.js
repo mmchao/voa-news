@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/voa-news/build/static/css/1.98b697f4.chunk.css"
   },
   {
-    "revision": "e501e76c65267a59c9fc56ffc26dd6e6",
+    "revision": "8cc68ec6b7182ab3f2bc6f7de90a13c8",
     "url": "/voa-news/build/index.html"
   }
 ];
