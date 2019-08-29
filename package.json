@@ -1,6 +1,7 @@
 {
   "name": "voa-news",
   "version": "0.1.0",
+  "homepage": "https://mmchao.github.io/voa-news/build",
   "private": true,
   "dependencies": {
     "antd": "^3.10.9",
