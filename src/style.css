@@ -1,0 +1,25 @@
+
+body {
+  background-color: #f0f2f5;
+  height: 100%;
+}
+#root{
+  height: 100%;
+}
+.layout{
+  height: 100%;
+  min-width: 1260px;
+}
+.header {
+	background: #fff;
+	border-bottom: 1px solid #999;
+}
+.content {
+  min-height: 600px;
+  margin: 10px
+}
+.footer {
+	text-align: center;
+  border-top: 1px solid #999;
+  padding: 10px;
+}
